@@ -1,0 +1,16 @@
+{
+  "name": "mongochat",
+  "version": "1.0.0",
+  "description": "Simple Chat app using sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^5.1.0",
+    "mongodb": "^2.2.33",
+    "socket.io": "^2.1.1"
+  }
+}
